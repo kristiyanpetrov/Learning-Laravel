@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                Laravel for the win!
             </div>
         </div>
     </body>
