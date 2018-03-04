@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "bootstrap-sass": "^3.0.0",
+    "bootstrap-sass-loader": "^1.0.10",
     "gulp-install": "^1.1.0",
     "save": "^2.3.2"
   }
