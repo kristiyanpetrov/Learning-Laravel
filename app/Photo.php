@@ -8,5 +8,12 @@ class Photo extends Model
 {
     //
 
+    protected $uploads = '/learning-laravel/public/images/';
+
     protected $fillable = ["file"];
+
+    public  function getFileAttribute($photo){
+
+        return $this->uploads . $photo;
+    }
 }
